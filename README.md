@@ -16,6 +16,8 @@ $(document).ready(function(){
 ```
 
 ```coffee
+// https://github.com/ghepting/jquery-responsive-text/blob/master/jquery.responsiveText.coffee
+
 delayedAdjust = []
 responsiveTextIndex = 0
 class ResponsiveText
